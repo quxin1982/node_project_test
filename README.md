@@ -1,4 +1,4 @@
-# node-project add some test summary add other summary
+# node-project add some test summary add other summary add final summary
 
 This project was generated with the [Angular Full-Stack Generator](https://github.com/DaftMonk/generator-angular-fullstack) version 4.1.0.
 
